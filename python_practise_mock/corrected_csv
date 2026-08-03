@@ -1,0 +1,16 @@
+emp_id,emp_name,emp_age,department,salary,location
+1,Bharath,24,Data Engineering,50000,Hyderabad
+2,Rakesh,26,Data Science,60000,Bangalore
+3,Anil,28,Testing,45000,Chennai
+4,Suresh,30,Data Engineering,70000,Hyderabad
+5,Ravi,25,Cloud,55000,Pune
+3,Anil,28,Testing,45000,Chennai
+6,,27,Data Science,65000,Bangalore
+7,Kiran,,Cloud,,Pune
+8,Prasad,29,,58000,Hyderabad
+9,Manoj,31,Data Engineering,72000,
+5,Ravi,25,Cloud,55000,Pune
+10,Ramesh,26,Testing,,
+11,,32,Data Science,75000,Chennai
+12,Arun,27,,62000,
+12,Arun,27,,62000,

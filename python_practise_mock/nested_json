@@ -1,0 +1,13 @@
+{
+  "employee":
+  {
+    "emp_id": 1,
+    "emp_name": "Bharath",
+    "salary": 5000,
+    "address":
+    {
+      "state": "telangana",
+      "city": "hyderabad"
+    }
+  }
+}
